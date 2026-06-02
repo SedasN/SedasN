@@ -55,28 +55,3 @@ I'm an IT student from Tajikistan passionate about technology, robotics, and unm
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c#,mysql,,vscode" />
 </p>
-
----
-
-## 📫 Connect with Me
-
-<p>
-  <a href="https://t.me/hoji_abubakr">
-    <img src="https://skillicons.dev/icons?i=telegram" height="50" />
-  </a>
-
-  <a href="https://www.instagram.com/damnitsabu">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
-  </a>
-
-  <a href="https://www.kaggle.com/abubakrturginov">
-    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="50" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <i>"Learn, Build, Fly."</i>
-</div>
-```
