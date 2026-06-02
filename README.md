@@ -3,7 +3,7 @@
 
 <div align="center">
   <img
-    src="https://i.pinimg.com/originals/84/da/da/84dada0a5dcfd790700df3dd87897aef.gif?nii=t"
+    src="[https://i.pinimg.com/originals/84/da/da/84dada0a5dcfd790700df3dd87897aef.gif?nii=t](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif)"
     width="600"
     height="300"
     alt="Profile animation"
