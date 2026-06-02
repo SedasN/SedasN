@@ -1,25 +1,82 @@
-# Turginov Abubakr
-<br clear="both">
-
 <div align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"
-    width="600"
-    height="500"
-    alt="Profile animation"
-  />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%" />
 </div>
 
-###
+<h1 align="center">Hi, I'm Sedas 👋</h1>
 
-<h1 align="center">Привет👋 Меня зовут Абубакр!</h1>
+<h3 align="center">
+Passionate about Drones, Robotics, and Software Development
+</h3>
 
-###
+---
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+## 🚀 About Me
 
-###
+I'm an IT student from Tajikistan passionate about technology, robotics, and unmanned aerial systems.
 
-<p align="left">Я начинающий Data Analyst. Мой путь в IT начался с Универа где я по сей день учусь, я познакомился с командой начинающих программистов деятелей, я начал с изучения основ, изучил С++ и С#, начал заниматься Game Dev разработчкой на Unity, понял что это не моё, и заинтерисовался AI технологиями, пошёл по пути Data Scientist разработчика. Изучил SQL и Python, а также библиотеки Pandas, NumPy и Matplotlib. Но мне так и не удалось найти в нём интерес. Data Analytics зацепила меня больше всего! С ноября 2025 года я изучаю направление Data Analytics самостоятельно. В настоящий момент я посетил онлайн мастер класс от Academica Courses. Параллельно со всем, я изучаю Корейский язык. Для поступления на Магистратуру.<br><br>- 📚 Завершил курс от Nvidia Getting Started with Deep Learning <br>
+### 🔭 Currently Working On
 
-###
+- 🚁 Drone Programming
+- 🤖 DJI Tello Projects & Experiments
+- 🗄️ Learning SQL and Database Fundamentals
+
+### 🎯 Future Goals
+
+- 🛠️ Building and Tuning FPV Drones
+- 📡 Learning Radio Communication & Flight Control Systems
+- 💻 Software Development
+- ⚙️ Automation & Embedded Systems
+
+### 🎓 Education
+
+- Technological University of Tajikistan
+- Participant in Student IT Projects
+
+### 🌱 Currently Learning
+
+- SQL
+- Drone Technologies
+- FPV Systems
+- Flight Controllers & Firmware
+- Embedded Programming
+- Korean Language 🇰🇷
+
+### ⚡ Interests
+
+- FPV Racing
+- Autonomous Drones
+- Robotics
+- Open Source Projects
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,git,github,vscode,linux" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p>
+  <a href="https://t.me/hoji_abubakr">
+    <img src="https://skillicons.dev/icons?i=telegram" height="50" />
+  </a>
+
+  <a href="https://www.instagram.com/damnitsabu">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+  </a>
+
+  <a href="https://www.kaggle.com/abubakrturginov">
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="50" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <i>"Learn, Build, Fly."</i>
+</div>
+```
