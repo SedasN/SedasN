@@ -53,7 +53,7 @@ I'm an IT student from Tajikistan passionate about technology, robotics, and unm
 ## 🛠️ Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c#,mysql,,vscode" />
 </p>
 
 ---
