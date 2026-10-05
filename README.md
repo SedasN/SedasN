@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="50%" />
 </div>
-<h1 align="center">Привет, я Sedas 👋</h1>
+<h1 align="center">Привет, я SedasN 👋</h1>
 <h3 align="center">
 Python-разработчик | Автоматизация | Computer Vision | Дроны DJI
 </h3>
